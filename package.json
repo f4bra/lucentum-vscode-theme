@@ -3,6 +3,7 @@
   "displayName": "lucentum-vscode-theme",
   "description": "Lucentum VSCode Theme",
   "version": "0.0.1",
+  "publisher": "CarlosFabra",
   "engines": {
     "vscode": "^1.85.0"
   },
