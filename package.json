@@ -1,0 +1,33 @@
+{
+  "name": "lucentum-vscode-theme",
+  "displayName": "lucentum-vscode-theme",
+  "description": "Lucentum VSCode Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "lucentum",
+    "lucentum-vscode-theme",
+    "dark",
+    "blue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/f4bra/lucentum-vscode-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lucentum VSCode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lucentum VSCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
