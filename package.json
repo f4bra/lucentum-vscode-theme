@@ -18,6 +18,7 @@
     "dark",
     "blue"
   ],
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/f4bra/lucentum-vscode-theme.git"
