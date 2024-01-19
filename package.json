@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lucentum VSCode Theme",
+        "label": "Lucentum",
         "uiTheme": "vs-dark",
         "path": "./themes/Lucentum VSCode Theme-color-theme.json"
       }
