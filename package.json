@@ -1,8 +1,8 @@
 {
   "name": "lucentum-vscode-theme",
-  "displayName": "lucentum-vscode-theme",
+  "displayName": "Lucentum Theme",
   "description": "Lucentum VSCode Theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "CarlosFabra",
   "engines": {
     "vscode": "^1.85.0"
