@@ -2,7 +2,7 @@
   "name": "lucentum-vscode-theme",
   "displayName": "Lucentum Theme",
   "description": "Lucentum VSCode Theme",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "publisher": "CarlosFabra",
   "engines": {
     "vscode": "^1.85.0"
@@ -31,5 +31,8 @@
         "path": "./themes/Lucentum VSCode Theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }

@@ -1,2 +1,4 @@
 node_modules
 *.vsix
+color-theme-showcase
+.vscode
